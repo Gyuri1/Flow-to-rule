@@ -5,8 +5,8 @@ This script converts network flow data into firewall rules. It filters based on 
 How to install:
 ====
 To install and set up the script, follow these steps:  
-	1.	Clone the repository to your local machine:git clone https://github.com/yourusername/yourrepository.git  
-	2.	Navigate to the project directory:cd yourrepository  
+	1.	Clone the repository to your local machine: ```git clone https://github.com/yourusername/yourrepository.git```  
+	2.	Navigate to the project directory: cd yourrepository  
 	3.	Ensure you have Python 3 installed. You can check your Python version with:python3 --version  
 
 How to run:
