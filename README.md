@@ -15,7 +15,7 @@ How to run:
 
 This should be the result:
 ====
-
+   ```sh
 python3 unify-netflow.py netflow-large.csv firewall-rules.csv   
 Reading data file: netflow-large.csv  
                       Start          Duration  ... Peer Bytes Actions  
@@ -33,4 +33,5 @@ Processing data:
 2        10.201.3.21    10.203.0.202            443/TCP  
 3       10.202.3.111    10.10.101.99            445/TCP  
 4       10.201.1.239    10.202.1.231             22/TCP  
-Writing firewall rules: firewall-rules.csv  
+Writing firewall rules: firewall-rules.csv
+ ```
