@@ -1,0 +1,4 @@
+"Start","Duration","Subject IP Address","Subject Port/Protocol","Subject Host Groups","Subject Bytes","Application","Total Bytes","Peer IP Address","Peer Port/Protocol","Peer Host Groups","Peer Bytes","Actions"
+"2024-11-25T19:10:12.000+0000","2d 2hr 45min 47s","10.201.3.20","50928/TCP","End User Devices, Desktops, Atlanta, Sales and Marketing","404.45 K","Undefined TCP","168.67 M","10.201.1.51","22609/TCP","Atlanta","168.28 M",
+"2024-11-25T19:10:44.000+0000","2d 2hr 45min 15s","10.201.3.21","59777/TCP","End User Devices, Desktops, Atlanta, Sales and Marketing","373.5 K","HTTPS (unclassified)","118.86 M","10.203.0.212","443/TCP","Atlanta, Protected Assets, Casablanca, QA","118.5 M",
+"2024-12-25T19:10:44.000+0000","3d 2hr 45min 15s","10.201.3.21","59/TCP","End User Devices, Desktops, Atlanta, Sales and Marketing","373.5 K","HTTPS (unclassified)","118.86 M","10.203.0.212","443/TCP","Atlanta, Protected Assets, Casablanca, QA","30M",
