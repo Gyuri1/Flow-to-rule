@@ -1,6 +1,7 @@
 # Flow to Rule 
 
-This script converts network flow data into firewall rules. It filters based on the following fields: 'Subject IP Address', 'Peer IP Address', and 'Peer Port/Protocol'.
+This script converts network flow data into firewall rules.   
+It filters based on the following fields: 'Subject IP Address', 'Peer IP Address', and 'Peer Port/Protocol'.
 
 How to install:
 ====
