@@ -4,8 +4,7 @@ This scripts converts the flow data into firewall rules, based on filtering on t
 
 How to install:
 ====
-
-    Please copy all of these files! 
+Please copy all of these files! 
 
 How to run:
 ====
