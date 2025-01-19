@@ -1,19 +1,26 @@
 # Flow to Rule 
 
-This scripts converts the flow data into firewall rules, based on filtering on these fields: 'Subject IP Address', 'Peer IP Address', 'Peer Port/Protocol'.  
+This script converts network flow data into firewall rules. It filters based on the following fields: 'Subject IP Address', 'Peer IP Address', and 'Peer Port/Protocol'.
 
 How to install:
 ====
-Please copy all of these files! 
+To install and set up the script, follow these steps:  
+	1.	Clone the repository to your local machine:git clone https://github.com/yourusername/yourrepository.git  
+	2.	Navigate to the project directory:cd yourrepository  
+	3.	Ensure you have Python 3 installed. You can check your Python version with:python3 --version  
 
 How to run:
 ====
+To convert flow data into firewall rules, run the following command:
 
     python3 unify-netflow.py netflow-large.csv firewall-rules.csv 
 
 
-This should be the result:
+Expected Output: 
 ====
+
+After running the script, you should obtain a CSV file named firewall-rules.csv containing the generated firewall rules.  
+
    ```sh
 python3 unify-netflow.py netflow-large.csv firewall-rules.csv   
 Reading data file: netflow-large.csv  
