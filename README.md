@@ -45,7 +45,7 @@ Writing firewall rules: firewall-rules.csv
 
 24 Jan 2024 Update:  
 ===
-A dask based example script (```sh unify-dask.py```) was uploaded.   
+A dask based example script (```unify-dask.py```) was uploaded.   
 
 More information on dask:  
 https://medium.com/featurepreneur/pandas-vs-dask-the-power-of-parallel-computing-994a202a74bd  
