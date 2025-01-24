@@ -42,3 +42,17 @@ Processing data:
 4       10.201.1.239    10.202.1.231             22/TCP  
 Writing firewall rules: firewall-rules.csv
  ```
+
+24 Jan 2024 Update:  
+===
+A dask based example script (```sh unify-dask.py```) was uploaded.   
+
+More information on dask:  
+https://medium.com/featurepreneur/pandas-vs-dask-the-power-of-parallel-computing-994a202a74bd  
+https://docs.dask.org/en/stable/dataframe-best-practices.html#use-pandas  
+
+
+
+
+
+
