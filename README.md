@@ -17,6 +17,9 @@ To convert flow data into firewall rules, run the following command:
     python3 unify-netflow.py netflow-large.csv firewall-rules.csv 
 
 
+where ```netflow-large.csv``` is the input netflow data filename and  
+```firewall-rules.csv``` is the output firewall filaname.  
+
 Expected Output: 
 ====
 
