@@ -62,7 +62,7 @@ A Host Group based example script (```unify-host-groups.py```) was uploaded.
 Host Groups can provide scalable policy architecure. 
 
 You can run with the same arguments;  
- ```python3 `unify-host-groups.py netflow-large.csv firewall-rules.csv```   
+ ```python3 unify-host-groups.py netflow-large.csv firewall-rules.csv```   
   
 
 
